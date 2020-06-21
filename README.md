@@ -26,3 +26,9 @@ Inside the project 1 folder, there are 4 files:
 - CSV file: the database I downloaded from Kaggle
 - two ipynb files: they are the analysis in the forms of jupyter notebook
 - 1 html file: the file that does not need any requirment to open
+
+### Results
+The analysis and findings can be find in the post available here
+
+### Licensing, Authors, Acknowledgements
+My acknowledgements to Kaggle for the good quality and clean data, without these analysis could not be done.
