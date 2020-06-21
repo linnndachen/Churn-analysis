@@ -6,7 +6,11 @@
 * Licensing, Authors and Acknowledgements
 
 ### Project Motivation and Overview
-This is the project for Udacity's Data Science Nanodegree - project 1. This was a dataset I found on Kaggle a while ago and I did it as a self-interst project. The original analysis and dataset can be found on ___ In this folder, I changed the analysis a bit for better fit the requirment of Udacity. 
+This is the project for Udacity's Data Science Nanodegree - project 1. This was a dataset I found on Kaggle a while ago and I did it as a self-interst project. I changed the analysis a bit for better fit the requirment of Udacity. In this project, I aim to answer three business questions:
+
+1. What is the value of my model to this telecom company?
+2. What types of customers are most likely to churn and why?
+3. What can we do about it?
 
 ### Installation: 
 There are two types of files.
@@ -28,7 +32,7 @@ Inside the project 1 folder, there are 4 files:
 - 1 html file: the file that does not need any requirment to open
 
 ### Results
-The analysis and findings can be find in the post available here
+The analysis and findings can be find in the post available [here](https://medium.com/@lindachen_/churn-analysis-why-is-it-valuable-2dae64fd45f8?source=friends_link&sk=51bb392caa613c79fa7b8e3ee73d63a0)
 
 ### Licensing, Authors, Acknowledgements
-My acknowledgements to Kaggle for the good quality and clean data, without these analysis could not be done.
+My acknowledgements to Kaggle for the good quality and clean data, without these analysis could not be done. The original dataset can be found [here](https://www.kaggle.com/barun2104/telecom-churn)
