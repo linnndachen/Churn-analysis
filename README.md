@@ -6,7 +6,7 @@
 * Licensing, Authors and Acknowledgements
 
 ### Project Motivation and Overview
-This is the project for Udacity's Data Science Nanodegree - project 1. This was a dataset I found on Kaggle a while ago and I did it as a self-interst project. I changed the analysis a bit for better fit the requirment of Udacity. In this project, I aim to answer three business questions:
+This is the project for Udacity's Data Science Nanodegree - project 1. This was a dataset I found on [Kaggle](https://www.kaggle.com/barun2104/telecom-churn) a while ago and I did it as a self-interst project. I changed the analysis a bit to fit the requirement of Udacity better. In this project, I aim to answer three business questions:
 
 1. What is the value of my model to this telecom company?
 2. What types of customers are most likely to churn and why?
